@@ -1,3 +1,2 @@
 # odin-recipes
-odin-recipes
-odin-recipes
+Odin Project recipes webpage
