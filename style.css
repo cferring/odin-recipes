@@ -1,0 +1,48 @@
+* {
+    background-color: bisque;
+}
+
+h1{
+    font-family: Georgia, Verdana;
+    font-weight: 800;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    height: 400px;
+    width:auto;
+    margin: 10px;
+}
+
+.home li, a{
+    width: 300px;
+    font-family: Georgia, Verdana;
+    text-decoration: none;
+    font-size:larger;
+}
+
+.home li:hover {
+    background-color: rgb(231, 193, 147);
+    list-style-type:circle;
+}
+
+.recipe-card {
+    color: black;
+    text-align: center;
+    border: 3px solid rgb(195, 147, 89);
+    width: 700px;
+}
+
+.recipe-content {
+    text-align: left;
+    margin: 20px;
+}
+
+
+#ingredients ul {
+    margin: 0;
+    list-style: none;
+}
