@@ -1,10 +1,14 @@
 * {
     background-color: bisque;
+    text-decoration: none;
+    color: black;
 }
 
-h1{
+h1 {
     font-family: Georgia, Verdana;
     font-weight: 800;
+    text-align: left;
+    margin: auto;
 }
 
 ul {
@@ -17,7 +21,18 @@ img {
     margin: 10px;
 }
 
-.home li, a{
+button {
+    float:right;
+}
+
+.title {
+    font-family: Verdana, Georgia;
+    font-size: 30px;
+    text-align: left;
+    margin: auto;
+}
+
+.home li, ul a{
     width: 300px;
     font-family: Georgia, Verdana;
     text-decoration: none;
@@ -30,6 +45,7 @@ img {
 }
 
 .recipe-card {
+    margin: 0 auto;
     color: black;
     text-align: center;
     border: 3px solid rgb(195, 147, 89);
